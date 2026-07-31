@@ -1,0 +1,274 @@
+{
+  "general": {
+    "companyName": "Annenfeld Agro",
+    "slogan": "Smart Agro Logistics Solutions",
+    "tabTitleTemplate": "{companyName} — Smart Agro Logistics Solutions",
+    "description": "Kənd təsərrüfatı və sənaye məhsullarının təhlükəsiz, sürətli və etibarlı daşınması üçün müasir logistika həlləri.",
+    "contactEmail": "info@annenfeldaqro.az",
+    "contactPhone": "+994 50 123 45 67",
+    "contactAddress": "Bakı, Azərbaycan",
+    "workingHours": "B.E - Ş.B: 09:00 - 18:00",
+    "faviconUrl": "/uploads/1785500052702_146748.png"
+  },
+  "adminAuth": {
+    "username": "admin",
+    "passwordHash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918"
+  },
+  "nav": {
+    "ctaText": "Təklif Al",
+    "ctaLink": "#contact",
+    "navItems": [
+      {
+        "id": "home",
+        "label": "Ana Səhifə",
+        "href": "#hero",
+        "visible": true
+      },
+      {
+        "id": "about",
+        "label": "Haqqımızda",
+        "href": "#about",
+        "visible": true
+      },
+      {
+        "id": "services",
+        "label": "Xidmətlər",
+        "href": "#services",
+        "visible": true
+      },
+      {
+        "id": "whyUs",
+        "label": "Üstünlüklər",
+        "href": "#why-us",
+        "visible": true
+      },
+      {
+        "id": "stats",
+        "label": "Göstəricilər",
+        "href": "#statistics",
+        "visible": true
+      },
+      {
+        "id": "contact",
+        "label": "Əlaqə",
+        "href": "#contact",
+        "visible": true
+      }
+    ]
+  },
+  "hero": {
+    "badge": "Annenfeld Agro",
+    "title": "Smart Agro Logistics Solutions",
+    "description": "Kənd təsərrüfatı və sənaye məhsullarının təhlükəsiz, sürətli və etibarlı daşınması üçün müasir logistika həlləri.",
+    "primaryCtaText": "Xidmətlərimiz",
+    "primaryCtaLink": "#services",
+    "secondaryCtaText": "Təklif Al",
+    "secondaryCtaLink": "#contact",
+    "bgImageUrl": "/uploads/1785496945538_photo_1586528116311_ad8dd3c8310d.png"
+  },
+  "about": {
+    "heading": "Haqqımızda",
+    "subtitle": "Peşəkar Logistika Şəbəkəsi",
+    "contentParagraph1": "Annenfeld Agro kənd təsərrüfatı məhsullarının daşınması, anbarlaşdırılması və logistika proseslərinin idarə olunması sahəsində fəaliyyət göstərən müasir logistika şirkətidir.",
+    "contentParagraph2": "Müştərilərimiz üçün operativ, təhlükəsiz və şəffaf xidmət təqdim etməyi əsas prioritet hesab edirik. Müasir avtoparkımız və təcrübəli komandamızla fermerlərdən iri sənaye müəssisələrinə qədər hər kəsə keyfiyyətli xidmət göstəririk.",
+    "imageUrl": "/uploads/1785500083740_about.png",
+    "features": [
+      {
+        "id": "f1",
+        "title": "Təhlükəsiz Daşıma",
+        "description": "Yüklərin zədələnmədən və təhlükəsiz şəkildə ünvana çatdırılması.",
+        "icon": "ShieldCheck"
+      },
+      {
+        "id": "f2",
+        "title": "Müasir Logistika",
+        "description": "Ən son texnologiyalar və avtomatlaşdırılmış idarəetmə sistemləri.",
+        "icon": "Truck"
+      },
+      {
+        "id": "f3",
+        "title": "Etibarlı Xidmət",
+        "description": "Müqavilə şərtlərinə tam riayət və 100% zəmanətli daşınma.",
+        "icon": "Award"
+      },
+      {
+        "id": "f4",
+        "title": "Peşəkar Komanda",
+        "description": "Sahəsində çoxillik təcrübəyə malik mutəxəssislər heyəti.",
+        "icon": "Users"
+      }
+    ]
+  },
+  "services": {
+    "heading": "Xidmətlərimiz",
+    "subtitle": "Logistika prosesinizin hər mərhələsi üçün etibarlı və çevik həllər təqdim edirik.",
+    "items": [
+      {
+        "id": "s1",
+        "title": "Daxili Daşıma",
+        "description": "Azərbaycan ərazisində kənd təsərrüfatı və digər yüklərin təhlükəsiz və operativ daşınması.",
+        "icon": "Truck"
+      },
+      {
+        "id": "s2",
+        "title": "Beynəlxalq Logistika",
+        "description": "MDB və Avropa istiqamətlərində beynəlxalq yükdaşıma və logistika xidmətləri.",
+        "icon": "Globe"
+      },
+      {
+        "id": "s3",
+        "title": "Anbar Xidmətləri",
+        "description": "Məhsulların təhlükəsiz saxlanılması, idarə olunması və logistika proseslərinə hazırlanması.",
+        "icon": "Warehouse"
+      },
+      {
+        "id": "s4",
+        "title": "GPS Yük İzləmə",
+        "description": "Daşınan yüklərin real vaxt rejimində izlənilməsi və logistika prosesinə tam nəzarət.",
+        "icon": "MapPin"
+      }
+    ]
+  },
+  "whyUs": {
+    "heading": "Niyə Annenfeld Agro?",
+    "subtitle": "Bizi seçməyiniz üçün 6 əsas səbəb",
+    "items": [
+      {
+        "id": "w1",
+        "title": "Operativ Çatdırılma",
+        "description": "Sürətli və səmərəli daşıma prosesi ilə vaxtınıza qənaət edirik.",
+        "icon": "Zap"
+      },
+      {
+        "id": "w2",
+        "title": "GPS İzləmə",
+        "description": "Yüklərinizi 24/7 xəritə üzərindən canlı izləmək imkanı.",
+        "icon": "Compass"
+      },
+      {
+        "id": "w3",
+        "title": "Peşəkar Komanda",
+        "description": "Təcrübəli və məsuliyyətli logistika mütəxəssisləri.",
+        "icon": "UserCheck"
+      },
+      {
+        "id": "w4",
+        "title": "Müasir Avtopark",
+        "description": "Bütün standartlara cavab verən yük maşınları və refrijeratorlar.",
+        "icon": "Truck"
+      },
+      {
+        "id": "w5",
+        "title": "24/7 Dəstək",
+        "description": "Fasiləsiz müştəri xidməti və canlı məsləhət dəstəyi.",
+        "icon": "Headphones"
+      },
+      {
+        "id": "w6",
+        "title": "Təhlükəsiz Daşıma",
+        "description": "Yükün sığortalanması və hər mərhələdə yüksək təhlükəsizlik.",
+        "icon": "ShieldCheck"
+      }
+    ]
+  },
+  "statistics": {
+    "heading": "Göstəricilərimiz",
+    "subtitle": "Rəqəmlərlə etibarlılığımız və uğurlarımız",
+    "items": [
+      {
+        "id": "st1",
+        "value": 450,
+        "suffix": "+",
+        "label": "Müştəri",
+        "icon": "Users"
+      },
+      {
+        "id": "st2",
+        "value": 18000,
+        "suffix": "+",
+        "label": "Çatdırılmış Yük (ton)",
+        "icon": "Package"
+      },
+      {
+        "id": "st3",
+        "value": 81,
+        "suffix": "%",
+        "label": "Müştəri Məmnuniyyəti",
+        "icon": "Smile"
+      },
+      {
+        "id": "st4",
+        "value": 12,
+        "suffix": "+",
+        "label": "İllik Təcrübə",
+        "icon": "Calendar"
+      }
+    ]
+  },
+  "partners": {
+    "heading": "Əməkdaşlarımız",
+    "subtitle": "Bizi seçən və etibar edən aparıcı şirkətlər",
+    "items": [
+      {
+        "id": "p1",
+        "name": "AgroTrade",
+        "logoUrl": "/uploads/1785499533140_146748.png"
+      },
+      {
+        "id": "p3",
+        "name": "Fresh Export",
+        "logoUrl": "/uploads/partner-3.svg"
+      },
+      {
+        "id": "p4",
+        "name": "Caspian Grain",
+        "logoUrl": "/uploads/partner-4.svg"
+      },
+      {
+        "id": "p5",
+        "name": "Agro Supply",
+        "logoUrl": "/uploads/partner-5.svg"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Bizimlə Əlaqə",
+    "subtitle": "Logistika ehtiyaclarınız üçün bizimlə əlaqə saxlayın. Komandamız sizə uyğun həlləri təqdim etməyə hazırdır.",
+    "addressLabel": "Ünvan",
+    "phoneLabel": "Telefon",
+    "emailLabel": "E-poçt",
+    "formTitle": "Sorğu Göndərin",
+    "formNamePlaceholder": "Ad Soyadınız",
+    "formEmailPlaceholder": "E-poçt ünvanınız",
+    "formPhonePlaceholder": " +994 (50) 000-00-00",
+    "formMessagePlaceholder": "Mesajınız və daşıma ehtiyacınız haqqında qeydlər...",
+    "formSubmitButton": "Göndər",
+    "formSuccessMessage": "Müraciətiniz uğurla göndərildi. Ən qısa zamanda sizinlə əlaqə saxlayacağıq."
+  },
+  "footer": {
+    "companyDescription": "Kənd təsərrüfatı və sənaye məhsullarının təhlükəsiz, sürətli və etibarlı daşınması üçün müasir logistika həlləri.",
+    "quickLinksHeading": "Sürətli Keçidlər",
+    "contactHeading": "Əlaqə Məlumatları",
+    "copyrightText": "© 2026 {companyName}. Bütün hüquqlar qorunur.",
+    "socialLinks": [
+      {
+        "id": "scl1",
+        "platform": "Instagram",
+        "url": "https://instagram.com",
+        "icon": "Instagram"
+      },
+      {
+        "id": "scl2",
+        "platform": "Facebook",
+        "url": "https://facebook.com",
+        "icon": "Facebook"
+      },
+      {
+        "id": "scl3",
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com",
+        "icon": "Linkedin"
+      }
+    ]
+  }
+}
